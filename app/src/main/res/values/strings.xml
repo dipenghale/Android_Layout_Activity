@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">POPA UI</string>
+    <string name="hw">Hello World!</string>
+    <string name="spinner_title">Select Country</string>
+
+    <string-array name="country_array">
+        <item>Select Country</item>
+        <item>Nepal</item>
+        <item>India</item>
+        <item>Bhutan</item>
+        <item>Bhangaladesh</item>
+        <item>Pakistan</item>
+        <item>Srilanka</item>
+    </string-array>
+</resources>
